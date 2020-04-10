@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "EventEmitter": "^1.0.0",
-    "auth0-js": "^8.9.0",
+    "auth0-js": "^9.13.2",
     "backendless": "^4.0.9",
     "bulma": "^0.5.3",
     "bulma-checkradio": "0.0.9",
